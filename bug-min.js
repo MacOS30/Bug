@@ -1,5 +1,5 @@
 /*
- Bug.js - https://github.com/Auz/Bug
+ Bug.js - https://www.perchy.com/Auz/Bug
  Released under MIT-style license.
  Original Screen Bug http://screen-bug.googlecode.com/git/index.html
 */
